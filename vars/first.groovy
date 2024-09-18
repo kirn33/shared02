@@ -1,3 +1,3 @@
-def greet(name){
-  echo "hello ${name} welcome"
+def call() {
+    echo 'Hello from the shared library!'
 }
